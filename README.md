@@ -1,0 +1,2 @@
+# javacore
+my_repository
